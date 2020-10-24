@@ -7,4 +7,11 @@ The main objective is to build ML model predict the decision of a graduate appli
 ## Programming Languages and Technologies:
  Python, R, Natural Langugae Processing
  
+ ## Methods Used
+ 1) Data Collection
+ 2) Data PreProcessing
+ 3) Dimensional Reduction
+ 4) Text Analysis
+ 5) Modelling
+ 6) Evaluation
  
